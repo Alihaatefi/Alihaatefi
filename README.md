@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=1000&color=2E9E8F&center=true&vCenter=true&width=620&lines=Solving+medical+problems;Deep+learning+for+medical+image+analysis" alt="Typing SVG" />
 </p>
----
+
 
 ### About me
 
